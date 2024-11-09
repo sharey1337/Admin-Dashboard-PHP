@@ -8,5 +8,5 @@
 
 # Proje Sahibi
 ## sharey
-### discord : shareyxrd
-### instagram : shwrey75
+* discord : shareyxrd
+* instagram : shwrey75
