@@ -3,8 +3,8 @@
 
 # ✨ Özellikler
 * Giriş ve Kayıt kısımları ayarlı hemde çok iyi arayüzü var
-2. Dashboard içinde ufak tefek cardlar var ve sidebar'ımız var
-3. Profil ayarlama kısmı var
+* Dashboard içinde ufak tefek cardlar var ve sidebar'ımız var
+* Profil ayarlama kısmı var
 
 # Proje Sahibi
 ## sharey
